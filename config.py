@@ -7,8 +7,8 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = 22432833
-API_HASH = "897f1c440892cfc46c7e222dfb37d015"
+API_ID = 22643805
+API_HASH = "d8843fa4d1f7d30266902d74260bbffe"
 
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = "BOT_TOKEN"
@@ -19,7 +19,7 @@ MONGO_DB_URI = "mongodb+srv://eno2223456:7Cdmqig5Ih2vrqW4@cluster0.ccpmee5.mongo
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = -1002465704041
+LOG_GROUP_ID = -1002577536358
 
 # Get this value from @ultron2_robot on Telegram by /id
 OWNER_ID = 7592041488
